@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("redesSociales")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://portfoliowebaj-a481c.web.app")
 public class CRedSocial {
     @Autowired
     SRedSocial sRedSocial;
