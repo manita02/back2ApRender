@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolioweb.aj.AjApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 68.203 s - in com.portfolioweb.aj.AjApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 69.835 s - in com.portfolioweb.aj.AjApplicationTests
